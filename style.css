@@ -1,11 +1,18 @@
 body{
     font-family: 'Montserrat', sans-serif;
-     margin-top: 10%;
+     margin: 3%;
 }
 h1{
     font-size: 50px;
     color: rgb(87, 83, 83);
 
+}
+.top{
+    background-image: linear-gradient(orange, tomato);
+   
+    padding: 10px 30px ;
+    border-radius: 50px;
+    color: white;
 }
 h4{
     font-size: 20px;
@@ -27,7 +34,8 @@ h4{
     padding-left: 5%;
 }
 .half-width img{
-    width: 100%;
+    width: 90%;
+    
 }
 .top-part-contrainer{
 display: flex;
