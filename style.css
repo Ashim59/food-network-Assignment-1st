@@ -37,7 +37,39 @@ h4{
     width: 90%;
     
 }
+.banner{
+background-image: url(images/shapes/7.png); 
+background-repeat: no-repeat;
+}
 .top-part-contrainer{
 display: flex;
 margin-bottom: 150px;
+}
+    
+.contaier{
+background-image: url(images/shapes/7.png);
+background-repeat: no-repeat;
+height: 100%;
+
+}
+
+.contaier{
+    display: flex;
+}
+.middle-banner-photo img{
+    margin-top: 50px;
+    height: 78.5%;
+    width: 70%;
+}
+.about-me{
+margin-top: 100px;
+padding: 20px;
+}
+.about-button{
+    margin-top: 100px ;
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 20px ;
+    border-radius: 20px;
+    color: white;
 }
