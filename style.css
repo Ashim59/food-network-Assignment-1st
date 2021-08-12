@@ -49,12 +49,7 @@ margin-bottom: 150px;
 .contaier{
 background-image: url(images/shapes/7.png);
 background-repeat: no-repeat;
-height: 100%;
-
-}
-
-.contaier{
-    display: flex;
+display: flex;
 }
 .middle-banner-photo img{
     margin-top: 50px;
@@ -72,4 +67,10 @@ padding: 20px;
     padding: 10px 20px ;
     border-radius: 20px;
     color: white;
+}
+.recipies-center{
+    text-align: center;
+}
+.align-center{
+    text-align: justify;
 }
